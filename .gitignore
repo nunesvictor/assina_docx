@@ -1,0 +1,7 @@
+build/
+.python-version
+run.sh
+__pycache__
+*.pyc
+*.pyo
+.DS_Store
